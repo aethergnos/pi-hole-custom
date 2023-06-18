@@ -1,43 +1,38 @@
-! 2023-04-11 https://www.1337x.to
-www.1337x.to###l512b5db196e78be147efacb74a3e76e3e9efeb0b [href] > [src]
-||www.1337x.to/css/images/axbotx2.png$image
-analyticsengine.s3.amazonaws.com
-analytics.s3.amazonaws.com
-advice-ads.s3.amazonaws.com
-advertising-api-eu.amazon.com
-app-measurement.com
-an.facebook.com
-widgets.pinterest.com
-ads-api.tiktok.com
-business-api.tiktok.com
-log.byteoversea.com
-udc.yahoo.com
-udcm.yahoo.com
-advertising.yahoo.com
-analytics.query.yahoo.com
-log.fc.yahoo.com
-gemini.yahoo.com
-appmetrica.yandex.ru
-adfstat.yandex.ru
-metrika.yandex.ru
-advertising.yandex.ru
-auction.unityads.unity3d.com
-webview.unityads.unity3d.com
-config.unityads.unity3d.com
-adserver.unityads.unity3d.com
-iot-eu-logser.realme.com
-iot-logser.realme.com
-bdapi-ads.realmemobile.com
-bdapi-in-ads.realmemobile.com
-adsfs.oppomobile.com
-ck.ads.oppomobile.com
-data.ads.oppomobile.com
-grs.hicloud.com
-advertising.apple.com
-tr.iadsdk.apple.com
-iadsdk.apple.com
-api-adservices.apple.com
-
-! 2023-06-08 https://letterboxd.com
-||a.ltrbxd.com/*m/upload/d5/4a/se/zy/yir-banner-1900*.png?k=*$image
+### Custom list 
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 app-measurement.com
+0.0.0.0 an.facebook.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 advertising.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 advertising.yandex.ru
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 adsfs.oppomobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 advertising.apple.com
+0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 api-adservices.apple.com
 
